@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Readings</string>
+    <string name="empty_slot"> </string>
+    <string name="progress_animation_label">progress-value</string>
+    <string name="loading_animation_label">loading</string>
+    <string name="image_transition_label">image-transition</string>
+    <string name="book_detail_description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non faucibus mi. Aliquam commodo diam eget nisi scelerisque, quis mollis leo maximus. Suspendisse mattis nec lacus non viverra. Proin eu ultrices felis, et interdum mauris. In hac habitasse platea dictumst. </string>
+</resources>
